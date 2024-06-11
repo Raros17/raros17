@@ -1,6 +1,7 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raros17&layout=compact)
-
+<div display="flex">
+  <div justifyContent="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raros17&layout=compact)</div>
+</div>
 <!--내용 부분-->
 <h3 align="center"> Stack </h3>
 <div align="center">
@@ -26,8 +27,8 @@
 
 <h3 align="center"> Studying </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=nextJS&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=redux&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-3578E5?style=for-the-badge&logo=redux&logoColor=white" />&nbsp
 </div>
 
 <br>
