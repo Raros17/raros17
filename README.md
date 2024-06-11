@@ -1,5 +1,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raros17&layout=compact)
 
+<p align="center">
+  <a href="https://github.com/Raros17">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raros17&layout=compact&show_icons=true&theme=nord" />
+  </a>
+</p>
+
 <!--내용 부분-->
 <h3 align="center"> Stack </h3>
 <div align="center">
