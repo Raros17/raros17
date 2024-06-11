@@ -48,12 +48,15 @@
 
 <h3 align="center"> Contact to. </h3>
 <div align="center">
-  <a href="mailto:sookmeoyhj@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  <a href="https://discord.com/channels/@me/1072069583919386735">
-      <img
-        src="https://img.shields.io/discord/1072069583919386735?style=for-the-badge&color=5865F2&logo=discord&logoColor=white"
-        alt="Discord server"
-      />
+  <a href="mailto: sookmeoyhj@gmail.com" title="메일 보내기">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://discord.com/channels/@me/1072069583919386735" title="디스코드 채팅하기">
+    <img src="https://img.shields.io/discord/1072069583919386735?style=for-the-badge&color=5865F2&logo=discord&logoColor=white" alt="Discord server"/>
     </a>
-  
+</div>
+<div align="center">
+  <a href="https://hj97codeart.tistory.com/" title="블로그 바로가기">
+    <img src ="https://img.shields.io/badge/blog-tistory-pink?style=for-the-badge&logo=blog&logoColor=white" alt="Tistory site"/>
+  </a>
 </div>
