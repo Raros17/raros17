@@ -25,7 +25,7 @@
 
 <h3 align="center"> Studying </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-3578E5?style=for-the-badge&logo=redux&logoColor=white" />&nbsp
 </div>
 
@@ -56,9 +56,9 @@
 <h3 align="center"> Contact to. </h3>
 <div align="center">
   <a href="mailto:sookmeoyhj@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-      <a href="https://discord.gg/1072069583919386735" class="badge">
+  <a href="https://discord.com/channels/@me/1072069583919386735">
       <img
-        src="https://img.shields.io/discord/1072069583919386735?color=5865F2&logo=discord&logoColor=white"
+        src="https://img.shields.io/discord/1072069583919386735?style=for-the-badge&color=5865F2&logo=discord&logoColor=white"
         alt="Discord server"
       />
     </a>
