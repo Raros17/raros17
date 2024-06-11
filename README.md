@@ -1,7 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raros17&layout=compact)
 
-<div display="flex">
-  <div justifyContent="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raros17&layout=compact)</div>
-</div>
 <!--내용 부분-->
 <h3 align="center"> Stack </h3>
 <div align="center">
@@ -58,6 +56,11 @@
 <h3 align="center"> Contact to. </h3>
 <div align="center">
   <a href="mailto:sookmeoyhj@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  <img alt="Discord" src="https://img.shields.io/discord/:1072069583919386735">
+      <a href="https://discord.gg/1072069583919386735" class="badge">
+      <img
+        src="https://img.shields.io/discord/1072069583919386735?color=5865F2&logo=discord&logoColor=white"
+        alt="Discord server"
+      />
+    </a>
   
 </div>
