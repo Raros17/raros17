@@ -1,8 +1,6 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raros17&layout=compact)
-
 <p align="center">
   <a href="https://github.com/Raros17">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raros17&layout=compact&show_icons=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raros17&layout=compact&show_icons=true" />
   </a>
 </p>
 
