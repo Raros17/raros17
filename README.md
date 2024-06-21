@@ -1,3 +1,5 @@
+<div align="center">
+
 <p align="center">
   <a href="https://github.com/Raros17">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raros17&layout=compact&show_icons=true" />
@@ -66,6 +68,6 @@
   </a>
 </div>
 <br>
-<div align="center">
+
 ![HJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raros17&theme=flag-india&show_icons=true)
 </div>
