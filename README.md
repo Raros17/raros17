@@ -1,10 +1,7 @@
 <div align="center">
-
-<p align="center">
   <a href="https://github.com/Raros17">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raros17&layout=compact&show_icons=true" />
   </a>
-</p>
 
 <!--내용 부분-->
 <h3 align="center"> Stack </h3>
@@ -67,6 +64,7 @@
     <img src ="https://img.shields.io/badge/blog-tistory-pink?style=for-the-badge&logo=blog&logoColor=white" alt="Tistory site"/>
   </a>
 </div>
+<br>
 <br>
 
 ![HJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raros17&theme=flag-india&show_icons=true)
