@@ -65,6 +65,7 @@
     <img src ="https://img.shields.io/badge/blog-tistory-pink?style=for-the-badge&logo=blog&logoColor=white" alt="Tistory site"/>
   </a>
 </div>
-
+<br>
+<div align="center">
 ![HJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raros17&theme=flag-india&show_icons=true)
-
+</div>
