@@ -65,3 +65,5 @@
     <img src ="https://img.shields.io/badge/blog-tistory-pink?style=for-the-badge&logo=blog&logoColor=white" alt="Tistory site"/>
   </a>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
